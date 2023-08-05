@@ -7,7 +7,7 @@
 
 - Natural de **Brasília, DF**
 - Atualmente em **Campo Grande, MS**
-- Estuda *Sistemas de Informação* na **Universidade Federal de Mato Grosso do Sul**
+- Estuda *Sistemas de Informação* pela **Universidade Federal de Mato Grosso do Sul (UFMS)**
 - Tecnóloga em *Análise e Desenvolvimento de Sistemas* pela **Universidade Paulista (UNIP)**
 
 ## Atividades | 2023.2
