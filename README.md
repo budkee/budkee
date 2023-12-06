@@ -3,7 +3,7 @@
 
 # Sobre mim
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Kaê&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Kae&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 - Natural de **Brasília, DF**
 - Atualmente em **Campo Grande, MS**
