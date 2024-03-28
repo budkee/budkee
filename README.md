@@ -1,13 +1,13 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Kae&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 # Sobre mim
+<img align= "right" src="https://github-readme-stats.vercel.app/api?username=budkee&theme=onedark">
 
 - Natural de **Brasília, DF**
 - Atualmente em **Campo Grande, MS**
 - Cursa *Sistemas de Informação* pela **Universidade Federal de Mato Grosso do Sul (UFMS)**
 - Tecnóloga em *Análise e Desenvolvimento de Sistemas* pela **Universidade Paulista (UNIP)**
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65fb56146deb533d6eff3676?variant=dark&roadmaps=aws%2Csql%2Cpython%2Cdevops" alt="roadmap.sh"/></a>
 
 ## Soft Skills
 
@@ -21,6 +21,7 @@
 
 
 ## Hard Skills
+<a href="https://roadmap.sh"><img align="right" src="https://api.roadmap.sh/v1-badge/wide/65fb56146deb533d6eff3676?variant=dark&roadmaps=aws%2Csql%2Cpython%2Cdevops" alt="roadmap.sh"/></a>
 
 > Algumas das tecnologias que estudo atualmente por área de desenvolvimento:
 
@@ -55,7 +56,6 @@
   [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.geeksforgeeks.org/c-programming-language/?ref=outind)
   [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://dev.java/learn/)
 
-<img align= "right" src="https://github-readme-stats.vercel.app/api?username=budkee&theme=onedark">
 
 ## Contato e Redes sociais
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kae.budke@gmail.com)
