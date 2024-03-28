@@ -7,6 +7,8 @@
 - Cursa *Sistemas de Informação* pela **Universidade Federal de Mato Grosso do Sul (UFMS)**
 - Tecnóloga em *Análise e Desenvolvimento de Sistemas* pela **Universidade Paulista (UNIP)**
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65fb56146deb533d6eff3676?variant=dark&roadmaps=aws%2Csql%2Cpython%2Cdevops" alt="roadmap.sh"/></a>
+
 ## Soft Skills
 
 > - Comunicativa
@@ -53,7 +55,6 @@
   [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.geeksforgeeks.org/c-programming-language/?ref=outind)
   [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://dev.java/learn/)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65fb56146deb533d6eff3676?variant=dark)](https://roadmap.sh)
 <img align= "right" src="https://github-readme-stats.vercel.app/api?username=budkee&theme=onedark">
 
 ## Contato e Redes sociais
