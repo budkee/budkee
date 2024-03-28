@@ -1,8 +1,3 @@
-<img align= "right" src="https://github-readme-stats.vercel.app/api?username=budkee&theme=onedark">
-<br> 
-<br> 
-<br> 
-<br> 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Kae&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 # Sobre mim
@@ -57,6 +52,9 @@
   [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.geeksforgeeks.org/c-programming-language/?ref=outind)
   [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://dev.java/learn/)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65fb56146deb533d6eff3676?variant=dark)](https://roadmap.sh)
+<img align= "right" src="https://github-readme-stats.vercel.app/api?username=budkee&theme=onedark">
 
 ## Contato e Redes sociais
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kae.budke@gmail.com)
