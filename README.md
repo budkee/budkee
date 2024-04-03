@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Overview&message=Kae&color=f8efd4&style=for-the-badge&logo=GitHub">
+<a href="https://budkee.me"><img src="https://img.shields.io/static/v1?label=Overview&message=Kae&color=f8efd4&style=for-the-badge&logo=GitHub"></a>
 
 # Sobre mim
 <img align= "right" src="https://github-readme-stats.vercel.app/api?username=budkee&theme=onedark">
@@ -42,7 +42,7 @@
   [![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/15/index.html)
   [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://docs.phpmyadmin.net/en/latest/)
 
-> ### DevOps entre outras PaaS/IaaS/SaaS
+> ### PaaS/IaaS
   [![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
   ![heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   [![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://googlecloudcheatsheet.withgoogle.com/)
