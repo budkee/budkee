@@ -5,19 +5,19 @@
 
 - Natural de **Brasília, DF**
 - Atualmente em **Campo Grande, MS**
-- Cursa *Sistemas de Informação* pela **Universidade Federal de Mato Grosso do Sul (UFMS)**
-- Tecnóloga em *Análise e Desenvolvimento de Sistemas* pela **Universidade Paulista (UNIP)**
+- No 6º semestre de *Sistemas de Informação* pela **Universidade Federal de Mato Grosso do Sul (UFMS)**
+- Graduado em *Análise e Desenvolvimento de Sistemas* pela **Universidade Paulista (UNIP)**
 
 
 ## Soft Skills
 
-> - Comunicativa
-> - Analítica
-> - Empática
-> - Organizada
-> - Criativa
+> - Comunicativo
+> - Analítico
+> - Empático
+> - Organizado
+> - Criativo
 > - Senso de coletividade
-> - Introvertida e Extrovertida 
+> - Introvertido e Extrovertido
 
 
 ## Hard Skills
